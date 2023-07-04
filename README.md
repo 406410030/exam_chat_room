@@ -1,6 +1,6 @@
 # exam_chat_room
 您好:
-我是江殷安，在本次chat_system之題目中，所使用之語言為java，環境為
+我是江殷安，在本次chat_system之題目中，所使用之語言為java，環境為javaSE-1.8，使用之資料庫為MongoDB，額外之jar檔為mongo-java-driver-3.10.2
 我所完成之功能如下:
 1.login介面之登入帳戶
 2.create account介面之創立帳戶
@@ -15,3 +15,8 @@
 ·列出當前在群組之使用者combobox，點選combobox會對內容進行跟新
 ·選擇私聊功能secret talk
 ·退出群組功能
+·顯示過去群組通話紀錄功能
+
+執行方式:
+server端執行server.java
+client端執行GUI.java
